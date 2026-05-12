@@ -29,7 +29,7 @@
   <text x="340" y="120" text-anchor="middle" style="fill:rgb(230, 237, 243);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Georgia, serif;font-size:46px;font-weight:700;text-anchor:middle;dominant-baseline:auto">Nguyễn Nam Khánh</text>
 
   <!-- Cursor -->
-  <rect x="608" y="100" width="3" height="30" rx="1" fill="#388BFD" style="fill:rgb(56, 139, 253);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <rect x="608" y="100" width="3" height="30" rx="1" fill="#388BFD" style="fill:rgb(56, 139, 253);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
 
   <!-- Accent line below name -->
   <line x1="100" y1="136" x2="580" y2="136" style="fill:rgb(0, 0, 0);stroke:rgb(33, 38, 45);color:rgb(255, 255, 255);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
